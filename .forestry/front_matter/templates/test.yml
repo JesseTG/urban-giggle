@@ -7,3 +7,5 @@ fields:
   default: test
   label: xx
   name: yy
+pages:
+- hh.md
